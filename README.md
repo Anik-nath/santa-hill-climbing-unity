@@ -27,4 +27,72 @@ The project was developed as part of the **Computer Graphics & Image Processing 
 ---
 
 ## 📂 Project Structure
+Santa-Hill-Climbing/
+├── Assets/
+│ ├── Scripts/
+│ │ ├── Camera1.cs
+│ │ ├── CarController.cs
+│ │ ├── FuelFill.cs
+│ │ ├── PauseResume.cs
+│ │ └── ScoreScript.cs
+│ └── Scenes/
+├── Packages/
+├── ProjectSettings/
+├── README.md
+└── .gitignore
 
+---
+
+## 🧩 Scripts Overview
+
+### 📌 Camera Movement
+Smoothly follows the player vehicle using interpolation.
+
+### 📌 Vehicle Controller
+Handles:
+- Car movement
+- Wheel torque
+- Fuel consumption
+
+### 📌 Fuel System
+Refills vehicle fuel when the player collects fuel objects.
+
+### 📌 Pause & Resume
+Allows the game to pause and resume using UI buttons.
+
+### 📌 Coin & Score System
+Tracks collected coins and updates the score in real time.
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/santa-hill-climbing-unity.git
+Open Unity Hub
+
+Click Open Project
+
+Select the project folder
+
+Open the main scene and press Play ▶️
+
+🚀 Future Improvements
+
+Add multiple levels
+
+Improve UI & animations
+
+Add sound effects and background music
+
+Introduce power-ups and obstacles
+
+Optimize performance for low-end devices
+
+
+👤 Author
+
+Anik Deb Nath
+Department of Computer Science & Engineering
+Premier University, Chittagong
