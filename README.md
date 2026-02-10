@@ -1,10 +1,17 @@
-# 🎮 Santa Hill Climbing – Unity 2D Game
+# Santa Hill Climbing – Unity 2D Game
 
 Santa Hill Climbing is a 2D platform-style game developed using **Unity** and **C#**.  
 In this game, the player controls Santa as he drives uphill, collects coins, refuels the vehicle, and avoids obstacles.  
 The project was developed as part of the **Computer Graphics & Image Processing Laboratory** course.
 
 ---
+## 🎮Game Play
+![GameDev](https://github.com/user-attachments/assets/4df492b5-f4e3-440e-859b-4eee5b802e3d)
+![gameplay1](https://github.com/user-attachments/assets/9c892581-8f8b-4537-92c7-c26403337474)
+![gameplay11](https://github.com/user-attachments/assets/b7e28e74-9dd0-40ee-ab1d-11338f0fbcfc)
+![gameplay2](https://github.com/user-attachments/assets/5655798d-56e8-442d-a471-73b8fc3cd8e6)
+![gameover](https://github.com/user-attachments/assets/77a0041d-ae2a-4450-beac-b23eeea0d250)
+
 
 ## 🛠️ Technologies Used
 
@@ -78,7 +85,7 @@ Select the project folder
 
 Open the main scene and press Play ▶️
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Add multiple levels
 
@@ -91,7 +98,7 @@ Introduce power-ups and obstacles
 Optimize performance for low-end devices
 
 
-👤 Author
+## 👤 Author
 
 Anik Deb Nath
 Department of Computer Science & Engineering
